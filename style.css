@@ -1,0 +1,43 @@
+
+        body{
+              
+              background: url('https://wallpapercave.com/wp/wp9361158.jpg') no-repeat;
+              background-size: cover;
+        }
+        #main{
+            background: transparent;
+            backdrop-filter:blur(6px);
+                 height: 200px;
+                 width: 400px;
+                 position: absolute;
+                 top: 30%;
+                 left: 35%;
+                 text-align: center;
+                 border: 2px solid rgb(30, 0, 255);
+                 border-radius: 20px;
+                
+        }
+        #btn{
+              background-color: blue;
+              color: white;
+              border-radius: 20px;
+              border:2px solid black;       
+        }
+        #btn:hover{
+                      background-color: rgb(61, 61, 200);
+        }
+        #btn:active{
+                        color: black;
+        }
+        input{
+                 
+                   color: rgb(0, 0, 0);
+                  background:transparent;
+                   border-radius: 20px;
+                    border:2px solid rgb(45, 41, 41);
+                    font-size: 20px;
+        }
+        
+
+
+
